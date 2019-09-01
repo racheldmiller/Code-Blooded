@@ -15,8 +15,7 @@ So you're interested in becoming a dev. So am I ! I decided to track my journey 
 
 ## My Story
 
-At 18, I felt lost. All of my friends had linear paths for what they wanted to major in, and I was far from that. I chose to major in something practical (English), and I wanted to have more time discovering and exploring my interests.
-<br>In college, I majored in English. At 18, I didn't know what I wanted to do for the rest of my life. So I majored in something practical (English) because I wanted options. I explored the medical field and legal. My first job right out of college was at a tech company.
+At 18, I felt lost. All of my friends had linear paths for what they wanted to major in, and I was far from that. I chose to major in something practical (English), and I wanted to have more time discovering and exploring my interests. I explored the medical field and legal. My first job right out of college was at a tech company.
 
 ## Why Technology
 
