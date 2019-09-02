@@ -18,6 +18,7 @@ So you're interested in becoming a dev. So am I ! I decided to track my journey 
 TLDR; I'm a recent college grad who wants to become a dev, despite not having a CS degree.
 
 <details>
+<summary>Introduction:</summary>
 At 18, I felt lost. All of my friends had linear paths for what they wanted to major in, and I was far from that. I chose to major in something practical (English), and I wanted to have more time discovering and exploring my interests. I explored the medical field and legal. My first job right out of college was at a tech company.
 </details>
 
