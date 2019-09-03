@@ -8,7 +8,7 @@ Hello, world! I'm writing this document for those who are people who don't come 
 - [Why Technology](#why-technology)
 - [My Approach to Learning](#my-approach-to-learning)
 - [Imposter Syndrome](#imposter-syndrome)
-- [Pros and Cons of a Coding Boot Camp](#pros-and-cons-of-a-coding-boot-camp)
+- [Pros and Cons of a Coding Boot Camp](#pros-and-cons-of-an-in-person-coding-boot-camp)
 - [Other Documentation By Me](#other-documentation-by-me)
 - [Recommendations](#recommendations)
 - [Learn More About Me](#learn-more-about-me)
@@ -37,8 +37,7 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 
 ## Pros and Cons of an In-Person Coding Boot Camp
 
-<details>
-<summary>### PROS (It outweighs the cons!)</summary>
+### PROS (It outweighs the cons!)
 
 - [ ] The ability to personally ask questions to your instructor or TAs in-person.
 - [ ] Networking opportunities everywhere! You never know the connections your peers have, or your instructional team.
@@ -47,12 +46,11 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 - [ ] (Theoretically), your boot camp is aware of what employers are looking in their employees.
 - [ ] (Presumably), the boot camp also offers career services.
 
-<summary>### CONS</summary>
+### CONS
 
 - [ ] Circumstancial. Some people may not be able to devote x amount of hours a week to attend class.
 - [ ] Deadlines for projects/homework may conflict with personal matters.
 - [ ] Boot camps may not be financially feasible for everyone. (Luckily, there are some workarounds to this!)
-  </details>
 
 ## Other Documentation By Me
 
@@ -68,6 +66,7 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 - [HTML and CSS: Design and Build Websites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=dp_rm_title_0)
 - [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=dp_rm_title_1)
 - [PHP & MySQL: Server-side Web Development](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149223/ref=dp_rm_title_5)
+- [Secrets of the JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ref=sr_1_2?crid=2Y63KEYI5OAFY&keywords=javascript+ninja&qid=1567492242&s=books&sprefix=javascript+nin%2Cstripbooks%2C188&sr=1-2)
 
 ### YouTube Accounts/Videos
 
