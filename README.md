@@ -1,6 +1,6 @@
 # Code-Blooded
 
-Hello, world! I'm writing this document for those who are people who don't come from a Computer Science background background, but are interested in transitioning into the world of development. I'll preface this by saying I started my journey Mar. 2019. So as of right now, I can't attest to anything, but hopefully if you're reading this and this resonates with you, you can take comfort knowing you're not alone! I decided to track my journey so far, as well as link to resources I found helpful thus far.
+Hello, world! I'm writing this document for those who are people who don't come from a Computer Science background background, but are interested in transitioning into the world of development. I'll preface this by saying I started my journey Mar. 2019. So as of right now, I can't attest to anything, but hopefully if you're reading this and this resonates with you, you can take comfort knowing you're not alone! I decided to track my journey, as well as link to resources I found helpful thus far.
 
 ## Table of Contents
 
@@ -32,22 +32,27 @@ I would say I'm definitely a visual learner. One of my biggest hurdles so far is
 
 <details>
 <summary>Oh, it's real.</summary>
-I recently completed a 6 month coding boot camp. The imposter syndrome never quite left, and admittedly, I still compare myself to my peers. My instructor gave me this word of wisdom: _"STOP!"_ Ok, well he had more to say. "Don't compare yourself to others; you're right where you need to be. You've already grown so much from the day before. Trust the process." It's tough when your peers seem to apply concepts better than you. No one wants to feel like they're the slow one, or the weak link in a group project. I have to constantly remind myself that my instructor _is_ right. One day, everything will click. And even then, we're still constantly learning and adapting to all the newest technologies. So the process never really ends... enjoy the ride!
+I recently completed a 6 month coding boot camp. The imposter syndrome never quite left, and admittedly, I still compare myself to my peers. My instructor gave me this word of wisdom: **"STOP!"** Ok, well he had more to say. "Don't compare yourself to others; you're right where you need to be. You've already grown so much from the day before. Trust the process." It's tough when your peers seem to apply concepts better than you. No one wants to feel like they're the slow one, or the weak link in a group project. I have to constantly remind myself that my instructor *is* right. One day, everything will click. And even then, we're still constantly learning and adapting to all the newest technologies. So the process never really ends... enjoy the ride!
 </details>
 
 ## Pros and Cons of an In-Person Coding Boot Camp
 
-- ### PROS (It outweighs the cons!)
-  - [ ] The ability to personally ask questions to your instructor or TAs in-person.
-  - [ ] Networking opportunities everywhere! You never know the connections your peers have, or your instructional team.
-  - [ ] Bigger sense of communuity. Everyone has similar goals in mind, and that fosters solidarity.
-  - [ ] Accountability and productivity. Having set deadlines on hw assignments/projects really motivates you to be on top of everything.
-  - [ ] (Theoretically), your boot camp is aware of what employers are looking in their employees.
-  - [ ] (Presumably), the boot camp also offers career services.
-- ### CONS
-  - [ ] Circumstancial. Some people may not be able to devote x amount of hours a week to attend class.
-  - [ ] Deadlines for projects/homework may conflict with personal matters.
-  - [ ] Boot camps may not be financially feasible for everyone. (Luckily, there are some workarounds to this!)
+<details>
+<summary>### PROS (It outweighs the cons!)</summary>
+
+- [ ] The ability to personally ask questions to your instructor or TAs in-person.
+- [ ] Networking opportunities everywhere! You never know the connections your peers have, or your instructional team.
+- [ ] Bigger sense of communuity. Everyone has similar goals in mind, and that fosters solidarity.
+- [ ] Accountability and productivity. Having set deadlines on hw assignments/projects really motivates you to be on top of everything.
+- [ ] (Theoretically), your boot camp is aware of what employers are looking in their employees.
+- [ ] (Presumably), the boot camp also offers career services.
+
+<summary>### CONS</summary>
+
+- [ ] Circumstancial. Some people may not be able to devote x amount of hours a week to attend class.
+- [ ] Deadlines for projects/homework may conflict with personal matters.
+- [ ] Boot camps may not be financially feasible for everyone. (Luckily, there are some workarounds to this!)
+  </details>
 
 ## Other Documentation By Me
 
