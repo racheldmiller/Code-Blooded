@@ -52,19 +52,16 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 ## Other Documentation By Me
 
 - ### JavaScript Madness
-  (Note: The link below is under construction.)
   > My notes on JavaScript related material. Check it out <a href="https://github.com/racheldmiller/JavaScript-Madness">here</a>.
+  > (Note: The link below is under construction.)
 
 ## Recommendations
 
-- ### Books
+### Books
 
-  <details>
-  <summary>Front-end Web Development:</summary>
-      - [ ] [HTML and CSS: Design and Build Websites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=dp_rm_title_0)
-      - [ ] [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=dp_rm_title_1)
-      - [ ] [PHP & MySQL: Server-side Web Development](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149223/ref=dp_rm_title_5)
-  </details>
+- [ ] [HTML and CSS: Design and Build Websites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=dp_rm_title_0)
+- [ ] [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=dp_rm_title_1)
+- [ ] [PHP & MySQL: Server-side Web Development](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149223/ref=dp_rm_title_5)
 
 - ### YouTube Accounts/Videos (coming soon)
 - ### Articles (coming soon)
