@@ -67,6 +67,7 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 - [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=dp_rm_title_1)
 - [PHP & MySQL: Server-side Web Development](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149223/ref=dp_rm_title_5)
 - [Secrets of the JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ref=sr_1_2?crid=2Y63KEYI5OAFY&keywords=javascript+ninja&qid=1567492242&s=books&sprefix=javascript+nin%2Cstripbooks%2C188&sr=1-2)
+- [Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=dp_ob_title_bk)
 
 ### YouTube Accounts/Videos
 
