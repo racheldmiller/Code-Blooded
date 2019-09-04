@@ -57,17 +57,36 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 ### JavaScript Madness
 
 > My notes on JavaScript related material. Check it out <a href="https://github.com/racheldmiller/JavaScript-Madness">here</a>.
-> (Note: The link below is under construction.)
+> (Note: The link is under construction.)
+
+### Algorithm Practice
+
+> I created a repo to practice algorithms because I heard data structures and algorithms are important to know. Check it out <a href="https://github.com/racheldmiller/algorithm-practice">here</a>
+> (Note: The link is under construction.)
 
 ## Recommendations
 
 ### Books
+
+#### JavaScript
 
 - [HTML and CSS: Design and Build Websites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=dp_rm_title_0)
 - [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=dp_rm_title_1)
 - [PHP & MySQL: Server-side Web Development](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149223/ref=dp_rm_title_5)
 - [Secrets of the JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ref=sr_1_2?crid=2Y63KEYI5OAFY&keywords=javascript+ninja&qid=1567492242&s=books&sprefix=javascript+nin%2Cstripbooks%2C188&sr=1-2)
 - [Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=dp_ob_title_bk)
+
+#### Python
+
+> coming soon!
+
+#### Java
+
+> coming soon!
+
+### Resumes
+
+- [What Your Resume Should Look Like in 2019](http://money.com/money/5481496/how-to-make-a-resume-2019-free-template/)
 
 ### YouTube Accounts/Videos
 
