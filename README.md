@@ -10,7 +10,13 @@ Hello, world! I'm writing this document for those who are people who don't come 
 - [Imposter Syndrome](#imposter-syndrome)
 - [Pros and Cons of a Coding Boot Camp](#pros-and-cons-of-an-in-person-coding-boot-camp)
 - [Other Documentation By Me](#other-documentation-by-me)
+  - [Algorithms](#algorithm-practice)
+  - [JavaScript Madness](#javascript-madness)
 - [Recommendations](#recommendations)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Resumes](#resumes)
+  - [Youtube Accounts/Videos](#youtube-accountsvideos)
 - [Learn More About Me](#learn-more-about-me)
 
 ## My Story
@@ -54,19 +60,23 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 
 ## Other Documentation By Me
 
-### JavaScript Madness
-
-> My notes on JavaScript related material. Check it out <a href="https://github.com/racheldmiller/JavaScript-Madness">here</a>.
-> (Note: The link is under construction.)
-
 ### Algorithm Practice
 
 > I created a repo to practice algorithms because I heard data structures and algorithms are important to know. Check it out <a href="https://github.com/racheldmiller/algorithm-practice">here</a>
 > (Note: The link is under construction.)
 
+### JavaScript Madness
+
+> My notes on JavaScript related material. Check it out <a href="https://github.com/racheldmiller/JavaScript-Madness">here</a>.
+> (Note: The link is under construction.)
+
 ## Recommendations
 
 ### Books
+
+### Articles
+
+> also coming soon!
 
 #### JavaScript
 
@@ -91,10 +101,6 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 ### YouTube Accounts/Videos
 
 > coming soon!
-
-### Articles
-
-> also coming soon!
 
 ## Learn More About Me
 
