@@ -72,11 +72,15 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 
 ## Recommendations
 
-### Books
-
 ### Articles
 
 > also coming soon!
+
+### Interviews
+
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?gclid=Cj0KCQjwh8jrBRDQARIsAH7BsXflACJdExj4m6pM79wZGbs3rUfvnNwsVvldma1-pA0R_eaBqAAExMQaAsnPEALw_wcB&hvadid=177138104581&hvdev=c&hvlocphy=9032171&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=17683107449617812459&hvtargid=aud-649564993678%3Akwd-20040243067&hydadcr=16409_9734494&keywords=cracking+the+coding+interview&qid=1567833362&s=gateway&sr=8-1)
+
+### Books
 
 #### JavaScript
 
