@@ -63,12 +63,10 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 ### Algorithm Practice
 
 > I created a repo to practice algorithms because I heard data structures and algorithms are important to know. Check it out <a href="https://github.com/racheldmiller/algorithm-practice">here</a>
-> (Note: The link is under construction.)
 
 ### JavaScript Madness
 
 > My notes on JavaScript related material. Check it out <a href="https://github.com/racheldmiller/JavaScript-Madness">here</a>.
-> (Note: The link is under construction.)
 
 ## Recommendations
 
