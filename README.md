@@ -104,7 +104,8 @@ I recently completed a 6 month coding boot camp. The imposter syndrome never qui
 
 ### YouTube Accounts/Videos
 
-> coming soon!
+- <a href="https://www.youtube.com/user/TechGuyWeb">Traversy Media</a>
+- <a href="https://www.youtube.com/channel/UC81OIFgbiCv9lE2ws07lsjA">Esterling Accime</a>
 
 ## Learn More About Me
 
